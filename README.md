@@ -1,5 +1,5 @@
 # imgcomparer
-compare images on canvas in javascript
+compare images on canvas in javascript using analytic mathematics
 
 ## usage example
 var result = imgcomparer.compare(image1, image2);
