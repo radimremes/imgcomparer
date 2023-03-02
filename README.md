@@ -43,10 +43,10 @@ We use [GitHub](http://github.com/) for versioning. For the versions available, 
 
 ## Authors
 
-* **Radim Remes** - *creator*, *author* - [GitHub](https://github.com/radimremes)
-* **Jiri Vanicek** - *author* - [ResearchGate](https://www.researchgate.net/profile/Jiri-Vanicek-3)
-* **Ladislav Beranek** - *author* - [GitHub](https://github.com/lberanek)
-* **Jan Fiala** - *author* - [GitHub](https://www.researchgate.net/profile/Jan-Fiala-2)
+* **Radim Remeš** - *creator*, *author* - [GitHub](https://github.com/radimremes)
+* **Jiří Vaníček** - *author* - [ResearchGate](https://www.researchgate.net/profile/Jiri-Vanicek-3)
+* **Ladislav Beránek** - *author* - [GitHub](https://github.com/lberanek)
+* **Jan Fiala** - *author* - [ResearchGate](https://www.researchgate.net/profile/Jan-Fiala-2)
 
 See also the list of [contributors](https://github.com/radimremes/imgcomparer/contributors) who participated in this project.
 
