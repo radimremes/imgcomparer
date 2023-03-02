@@ -1,5 +1,5 @@
 /*
-(c) 2022-2023 Radim Remes & Co. / imgcomparer v0.3
+(c) 2022-2023 Radim Remes, Jiri Vanice, Ladislav Beranek, Jan Fiala / imgcomparer v0.3
 URL: https://github.com/radimremes/imgcomparer/
 */
 
