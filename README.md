@@ -7,7 +7,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-A modern web browser is sufficient for running demo using imgcomparer library.
+A modern web browser is sufficient for running imgcomparer library demo.
 
 ## Installing
 
