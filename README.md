@@ -16,8 +16,12 @@ Download JavaScript library imgcomparer.js and link to it in your HTML source fi
     <script src="imgcomparer.js"></script>
 ```
 
-## usage example
+## Usage example
+In your JavaScript code call compare method.
+
+```
 var result = imgcomparer.compare(image1, image2);
+```
 
 All outputs are in the imgcomparer.output object. 
 It consists of fields: result, differences, difference1, difference2.
